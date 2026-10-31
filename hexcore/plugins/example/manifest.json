@@ -1,0 +1,1 @@
+{"description":"Example read-only plugin: counts strings containing a term.","entry":"plugin.py","id":"hexcore-example","name":"HEXCORE Example Plugin","permissions":[],"version":"1.0.0"}
